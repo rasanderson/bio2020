@@ -8,9 +8,10 @@ Description: Additional functions for vegan and ggvegan.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Imports: car, ggplot2, ggformula, mosaic, vegan, grid, tidyr
+Imports: car, ggplot2, ggformula, ggstance, mosaic, vegan, grid, tidyr
 Remotes: ProjectMOSAIC/mosaic,
-         ProjectMOSAIC/ggformula
+         ProjectMOSAIC/ggformula,
+         lionel-/ggstance
 Dependencies: TRUE
 RoxygenNote: 7.1.1
 NeedsCompilation: no
